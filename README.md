@@ -298,9 +298,9 @@ Documentation/Customer_Sales_Analytics_Report.pdf
 
 📧 Email: **mk6066863@gmail.com**
 
-💼 LinkedIn: *(Add your LinkedIn Profile)*
+💼 LinkedIn: *(www.linkedin.com/in/muskan-saini006)*
 
-🐙 GitHub: *(Add your GitHub Profile)*
+🐙 GitHub: *(https://github.com/muskan-saini27)*
 
 ---
 
