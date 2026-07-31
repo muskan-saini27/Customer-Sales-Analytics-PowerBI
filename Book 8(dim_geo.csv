@@ -1,0 +1,21 @@
+geo_key,city,region
+1,New York,North America
+2,Chicago,North America
+3,Toronto,North America
+4,Los Angeles,North America
+5,London,Europe
+6,Berlin,Europe
+7,Paris,Europe
+8,Madrid,Europe
+9,Amsterdam,Europe
+10,Tokyo,Asia Pacific
+11,Singapore,Asia Pacific
+12,Sydney,Asia Pacific
+13,Mumbai,Asia Pacific
+14,Sao Paulo,Latin America
+15,Mexico City,Latin America
+16,Buenos Aires,Latin America
+17,Dubai,Middle East
+18,Riyadh,Middle East
+19,Cairo,Middle East
+20,Istanbul,Middle East

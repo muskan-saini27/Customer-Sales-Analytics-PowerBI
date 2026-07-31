@@ -1,0 +1,61 @@
+customer_id,customer_name,segment,account_manager,payment_terms,contact_name,contact_email,credit_limit,phone,street,city,region
+1001,Meridian Group,Mid-Market,Sarah Lin,Net 30,Emma Adel,emma.adel@example.com,10000,+77-140-8078,345 Main St,Buenos Aires,Latin America
+1010,Vertex Distribution,Enterprise,Omar Khan,Net 60,Carlos Khan,carlos.khan@example.com,50000,+71-234-5719,708 Hill St,Buenos Aires,Latin America
+1002,Cascade Industries,Enterprise,Tom Reyes,Net 60,Sarah Reyes,sarah.reyes@example.com,10000,+30-790-1339,872 Park St,Berlin,Europe
+1021,Momentum Holdings,Mid-Market,Sarah Lin,Net 30,Omar Brandt,omar.brandt@example.com,100000,+85-911-3492,974 Market St,Berlin,Europe
+1003,Nova Retail,Mid-Market,Mei Chen,Net 15,Mei Sato,mei.sato@example.com,250000,+6-881-3870,500 Oak St,Sydney,Asia Pacific
+1014,Pinnacle Distribution,SMB,David Park,Net 60,Priya Park,priya.park@example.com,50000,+54-954-8905,680 Bay St,Sydney,Asia Pacific
+1007,Vanguard Holdings,Mid-Market,Tom Reyes,Net 15,Sofia Hassan,sofia.hassan@example.com,10000,+41-358-6296,971 Oak St,Toronto,North America
+1011,Atlas Industries,Enterprise,Sarah Lin,Net 15,Fatima Silva,fatima.silva@example.com,10000,+81-723-4920,459 Main St,Toronto,North America
+1004,Catalyst Industries,Mid-Market,David Park,Prepaid,Mei Khan,mei.khan@example.com,25000,+75-546-9056,817 Park St,Singapore,Asia Pacific
+1005,Cascade Commerce,Mid-Market,Omar Khan,Net 30,Aisha Wang,aisha.wang@example.com,50000,+42-786-2713,287 Bay St,Amsterdam,Europe
+1018,Zenith Logistics,SMB,Mei Chen,Net 60,Yuki Lopez,yuki.lopez@example.com,100000,+20-557-9824,278 Park St,Amsterdam,Europe
+1006,Quantum Logistics,SMB,Sarah Lin,Net 60,David Park,david.park@example.com,100000,+37-778-7561,570 Main St,Dubai,Middle East
+1015,Meridian Commerce,SMB,Omar Khan,Net 15,Liam Silva,liam.silva@example.com,25000,+50-295-9327,485 Bay St,Dubai,Middle East
+1019,Zenith Distribution,SMB,David Park,Net 15,Mei Khan,mei.khan@example.com,100000,+59-429-4090,237 Main St,Paris,Europe
+1008,Catalyst Distribution,SMB,Mei Chen,Prepaid,Hans Lopez,hans.lopez@example.com,10000,+85-990-9889,248 Market St,Sao Paulo,Latin America
+1009,Keystone Distribution,SMB,David Park,Net 30,Mei Murphy,mei.murphy@example.com,50000,+80-874-9167,501 Bay St,Madrid,Europe
+1013,Fusion Logistics,Mid-Market,Mei Chen,Net 30,Carlos Park,carlos.park@example.com,10000,+83-952-3522,709 Oak St,Tokyo,Asia Pacific
+1012,Apex Commerce,Enterprise,Tom Reyes,Prepaid,David Murphy,david.murphy@example.com,250000,+53-195-4681,302 Oak St,Mumbai,Asia Pacific
+1017,Cascade Group,Mid-Market,Tom Reyes,Net 30,Lena Weber,lena.weber@example.com,10000,+37-843-5891,339 Park St,Mexico City,Latin America
+1016,Summit Commerce,Enterprise,Sarah Lin,Prepaid,Chen Weber,chen.weber@example.com,50000,+99-908-7798,353 Hill St,Riyadh,Middle East
+1020,Cascade Partners,Mid-Market,Omar Khan,Prepaid,Yuki Brandt,yuki.brandt@example.com,25000,+53-144-6213,324 Main St,Riyadh,Middle East
+1022,Meridian Retail,SMB,Tom Reyes,Net 60,Mei Weber,mei.weber@example.com,250000,+43-990-2644,197 Oak St,Buenos Aires,Latin America
+1023,Keystone Logistics,SMB,Mei Chen,Net 15,Liam Patel,liam.patel@example.com,100000,+2-839-3361,284 Market St,Cairo,Middle East
+1024,Vertex Logistics,Enterprise,David Park,Prepaid,Carlos Murphy,carlos.murphy@example.com,10000,+61-900-5342,779 Bay St,Istanbul,Middle East
+1025,Pinnacle Trading,SMB,Omar Khan,Net 30,Nora Ali,nora.ali@example.com,10000,+43-972-9742,290 Main St,Paris,Europe
+1026,Zenith Holdings,SMB,Sarah Lin,Net 60,Emma Adel,emma.adel@example.com,100000,+70-136-2121,304 Oak St,Sydney,Asia Pacific
+1027,Nova Partners,Mid-Market,Tom Reyes,Net 15,Nora Ramos,nora.ramos@example.com,25000,+96-192-8110,184 Park St,New York,North America
+1028,Summit Partners,SMB,Mei Chen,Prepaid,Yuki Park,yuki.park@example.com,10000,+57-270-5906,726 Bay St,London,Europe
+1029,Vertex Supply,Enterprise,David Park,Net 30,Aisha Silva,aisha.silva@example.com,50000,+46-483-8056,281 Main St,Chicago,North America
+1030,Pinnacle Commerce,SMB,Omar Khan,Net 60,Mei Hassan,mei.hassan@example.com,25000,+22-279-2293,567 Park St,London,Europe
+1031,Apex Trading,SMB,Sarah Lin,Net 15,Yuki Ali,yuki.ali@example.com,25000,+64-697-3344,654 Hill St,Los Angeles,North America
+1032,Atlas Group,Mid-Market,Tom Reyes,Prepaid,Fatima Hassan,fatima.hassan@example.com,50000,+86-109-8622,894 Main St,Cairo,Middle East
+1033,Meridian Supply,Enterprise,Mei Chen,Net 30,Chen Rossi,chen.rossi@example.com,10000,+57-453-5901,292 Hill St,Buenos Aires,Latin America
+1034,Momentum Group,Mid-Market,David Park,Net 60,David Nair,david.nair@example.com,100000,+39-303-7302,452 Park St,Berlin,Europe
+1035,Evergreen Partners,Mid-Market,Omar Khan,Net 15,Yuki Nair,yuki.nair@example.com,250000,+46-688-5847,989 Main St,Amsterdam,Europe
+1036,Vanguard Logistics,SMB,Sarah Lin,Prepaid,Emma Schmidt,emma.schmidt@example.com,100000,+36-108-1803,964 Hill St,Los Angeles,North America
+1037,Keystone Commerce,Mid-Market,Tom Reyes,Net 30,Carlos Lopez,carlos.lopez@example.com,25000,+78-921-6772,842 Main St,Mumbai,Asia Pacific
+1038,Summit Retail,Mid-Market,Mei Chen,Net 60,Omar Weber,omar.weber@example.com,25000,+81-199-1645,504 Main St,Cairo,Middle East
+1039,Zenith Group,SMB,David Park,Net 15,Lena Wang,lena.wang@example.com,50000,+94-234-2476,645 Market St,Chicago,North America
+1040,Beacon Group,Mid-Market,Omar Khan,Prepaid,Raj Rossi,raj.rossi@example.com,25000,+26-235-9837,156 Oak St,Cairo,Middle East
+1041,Apex Holdings,SMB,Sarah Lin,Net 30,Fatima Wang,fatima.wang@example.com,50000,+22-363-8894,972 Park St,Toronto,North America
+1042,Fusion Group,Mid-Market,Tom Reyes,Net 60,Nora Weber,nora.weber@example.com,10000,+60-177-3306,255 Main St,Riyadh,Middle East
+1043,Catalyst Partners,SMB,Mei Chen,Net 15,Sofia Reyes,sofia.reyes@example.com,100000,+72-474-2479,783 Hill St,Istanbul,Middle East
+1044,Horizon Supply,SMB,David Park,Prepaid,Sofia Ali,sofia.ali@example.com,10000,+59-477-5295,611 Bay St,Madrid,Europe
+1045,Evergreen Supply,Mid-Market,Omar Khan,Net 30,Emma Khan,emma.khan@example.com,10000,+87-339-8724,795 Bay St,Mumbai,Asia Pacific
+1046,Meridian Partners,SMB,Sarah Lin,Net 60,Tom Nair,tom.nair@example.com,50000,+79-326-2035,462 Hill St,Tokyo,Asia Pacific
+1047,Fusion Distribution,SMB,Tom Reyes,Net 15,Carlos Lopez,carlos.lopez@example.com,50000,+84-518-2911,881 Bay St,Sao Paulo,Latin America
+1048,Orbit Holdings,Mid-Market,Mei Chen,Prepaid,Yuki Wang,yuki.wang@example.com,100000,+15-199-4846,313 Bay St,Istanbul,Middle East
+1049,Apex Group,Mid-Market,David Park,Net 30,Nora Weber,nora.weber@example.com,50000,+86-860-9850,62 Bay St,Los Angeles,North America
+1050,Evergreen Group,Enterprise,Omar Khan,Net 60,Nora Hassan,nora.hassan@example.com,100000,+84-201-9017,971 Oak St,Paris,Europe
+1051,Evergreen Distribution,Mid-Market,Sarah Lin,Net 15,Yuki Khan,yuki.khan@example.com,10000,+89-479-4559,271 Market St,Toronto,North America
+1052,Quantum Distribution,Mid-Market,Tom Reyes,Prepaid,Nora Brandt,nora.brandt@example.com,10000,+88-476-9920,161 Oak St,Berlin,Europe
+1053,Summit Group,Enterprise,Mei Chen,Net 30,Omar Khan,omar.khan@example.com,100000,+36-294-3001,566 Main St,Berlin,Europe
+1054,Horizon Logistics,Enterprise,David Park,Net 60,Emma Silva,emma.silva@example.com,25000,+83-754-1349,3 Hill St,Mexico City,Latin America
+1055,Pioneer Partners,Enterprise,Omar Khan,Net 15,Yuki Wang,yuki.wang@example.com,250000,+27-170-4394,706 Bay St,Buenos Aires,Latin America
+1056,Atlas Holdings,Enterprise,Sarah Lin,Prepaid,Chen Hassan,chen.hassan@example.com,50000,+19-907-1046,299 Main St,Madrid,Europe
+1057,Keystone Partners,Enterprise,Tom Reyes,Net 30,Chen Brandt,chen.brandt@example.com,250000,+33-917-3858,296 Market St,Tokyo,Asia Pacific
+1058,Pioneer Holdings,Enterprise,Mei Chen,Net 60,Carlos Nair,carlos.nair@example.com,10000,+46-908-4898,720 Hill St,Toronto,North America
+1059,Quantum Supply,Mid-Market,David Park,Net 15,Nora Patel,nora.patel@example.com,10000,+17-859-7897,704 Oak St,Amsterdam,Europe
+1060,Cascade Retail,Mid-Market,Omar Khan,Prepaid,Sofia Adel,sofia.adel@example.com,100000,+47-625-2786,807 Market St,Cairo,Middle East

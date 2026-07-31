@@ -1,0 +1,15 @@
+flag_key,channel_code,channel,status,priority
+1,10,Online Store,Shipped,Standard
+2,30,Wholesale,Shipped,Express
+4,20,Retail Partner,Delivered,Standard
+5,20,Retail Partner,Delivered,Express
+3,40,Field Sale,Delivered,Express
+6,10,Online Store,Delivered,Express
+7,30,Wholesale,Delivered,Standard
+8,20,Retail Partner,Shipped,Standard
+9,40,Field Sale,Delivered,Standard
+10,30,Wholesale,Delivered,Express
+11,30,Wholesale,Processing,Express
+12,10,Online Store,Processing,Express
+13,10,Online Store,Delivered,Standard
+14,20,Retail Partner,Processing,Express
